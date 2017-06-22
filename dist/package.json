@@ -1,0 +1,10 @@
+{
+  "name": "vue-pwa",
+  "version": "1.0.0",
+  "description": "For learning purpose",
+  "author": "Yessika",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
